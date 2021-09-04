@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/model/tot_nghiep.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/TotNghiepController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/logout.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/login.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/add.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/api/ChuongTrinhDaoTaoController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/changepass.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/view/user/index.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/index.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/MonHocController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/ChuongTrinhDaoTaoController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/api/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/model/chuong_trinh_dao_tao.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/action.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/model/user_ctdt.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/api/MonHocController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/view/totnghiep/index.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/config/Database.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/api_server.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/controller/api/TotNghiepController.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/edituser.php</file>
+            <file>file:/C:/xampp/htdocs/1/QuanLyCTDT/model/mon_hoc.php</file>
+        </group>
+    </open-files>
+</project-private>

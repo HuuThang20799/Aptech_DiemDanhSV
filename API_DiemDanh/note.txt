@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Insert table from Excel</title>
+</head>
+<body>
+	
+
+	<form method="POST" enctype="multipart/form-data">
+		<h1>Import FILE Excel</h1>
+		<input type="file" name="file" >
+		<br>
+		<button type="submit" name="btnSend" style="width: 100px;height: 40px;size: 27px;">Import File</button>
+	</form>
+</body>
+</html>

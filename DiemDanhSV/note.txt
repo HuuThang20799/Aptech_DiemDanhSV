@@ -1,0 +1,7 @@
+<?php if (empty($_FILES['file'])== true ){ ?> disabled <?php   } ?> 
+
+// $serverName = "localhost\\SQLEXPRESS01"; //serverName\instanceName
+// $userName="sa";
+// $password="thang1999";
+// $connectionInfo = array( "Database"=>"QuanLy", "UID"=>"sa", "PWD"=>"thang1999","ConnectionPooling"=>0,"CharacterSet"=>"UTF-8");
+// $conn = sqlsrv_connect( $serverName, $connectionInfo);
